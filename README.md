@@ -6,7 +6,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| Прогнозирование оттока клиентов Яндекс Такси | ETL-пайплайн + ML-модель (Random Forest, точность 86.2%) для выявления уходящих пользователей на основе миллиона поездок	| PySpark, Spark MLlib, Airflow, ClickHouse, Yandex Cloud (S3/Dataproc) |
+| [Прогнозирование оттока клиентов Яндекс Такси](#https://github.com/thunderj77/MyProjects-churn-prediction) | ETL-пайплайн + ML-модель (Random Forest, точность 86.2%) для выявления уходящих пользователей на основе миллиона поездок	| PySpark, Spark MLlib, Airflow, ClickHouse, Yandex Cloud (S3/Dataproc) |
 | A/B-тестирование рекомендательной системы |	Оценка влияния нового алгоритма на долю успешных сессий (+1.1%, p=0.00016), расчёт выборки, Z-тест | Python, pandas, scipy, statsmodels, matplotlib |
 | Сегментация аудитории онлайн-игры | Кластеризация K-Means, повышение Retention на 8 п.п. | Python, Pandas, Plotly |
 | Анализ продаж квартир в СПб | Исследовательский анализ данных, выявление факторов стоимости | Python, Pandas, Seaborn |
