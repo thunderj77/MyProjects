@@ -11,7 +11,7 @@
 | Сегментация аудитории онлайн-игры | Кластеризация K-Means, повышение Retention на 8 п.п. | Python, Pandas, Plotly |
 | Анализ продаж квартир в СПб | Исследовательский анализ данных, выявление факторов стоимости | Python, Pandas, Seaborn |
 | Анализ убытков приложения ProcrastinatePRO+ | LTV, CAC, ROI, Retention, DAU/WAU/MAU | Python, когортный анализ |
-| Cloud reports | Дашборд в Looker Studio с динамикой выручки и P&L | Looker Studio, SQL |
+| [TED Conference Analytics Dashboard](https://github.com/thunderj77/MyProjects-datalens-ted) | Интерактивный дашборд для анализа выступлений и реакций аудитории | Yandex DataLens, SQL, PostgreSQL |
 | Анализ клиентов оператора связи | SQL с оконными функциями, выявление групп риска | PostgreSQL |
 | Анализ скорой помощи (пет-проект) | Исследование времени доезда по районам | Python, визуализация |
 | Явка избирателей в Забайкалье (пет-проект) | Связь явки с погодой, днём недели, интерактивная карта | Python, DataLens |
